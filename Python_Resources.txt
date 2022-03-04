@@ -1,0 +1,29 @@
+Python Resources:
+codecademy: 
+(https://www.codecademy.com/)
+w3schools: 
+(https://www.w3schools.com/python/defa...)
+the official python tutorial: 
+(https://docs.python.org/3/tutorial/in...) 
+microsoft’s intro to python series: 
+(https://youtu.be/jFCNu1-Xdsw)
+automate the boring stuff with python:  
+(https://automatetheboringstuff.com/)
+
+FREE PYTHON LEARNING RESOURCES
+================================
+1. https://quantecon.org/lectures/index....
+2. https://automatetheboringstuff.com/
+3. https://foundations-of-applied-mathematics.github.io/
+4. https://pbpython.com/
+5. https://hackersandslackers.com/
+6. https://www.udemy.com/course/complete-python-bootcamp/
+
+YouTube Videos:
+1. https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+2. https://youtu.be/vLqTf2b6GZw
+3. https://youtu.be/gfDE2a7MKjA
+4. https://youtu.be/jFCNu1-Xdsw
+
+CodeWithHarry Notes:
+https://drive.google.com/file/d/1dghcM0yMkwpAHsdTBbc9gluyXAyFTQw3/view

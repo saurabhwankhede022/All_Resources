@@ -1,0 +1,86 @@
+HTML and CSS and JS
+resource's:
+Goal - Learn HTML
+
+# Video Courses
+
+1. HTML + CSS by Kevin Powell
+   https://scrimba.com/learn/htmlcss/introduction-c4GE7ns6
+   https://temp-mail.org/  - Use this to create account on scrimba
+
+3. A video on HTML by Aman Dhattarwal 
+   https://www.youtube.com/watch?v=Rek0NWPCNOc
+
+4. Another great way to learn HTML
+   https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements
+
+4. W3Schools - HTML
+   https://www.w3schools.com/html/default.asp
+
+
+5. Codepen - Online Code Editor
+   https://codepen.io/pen/
+
+6. Codesandbox - Another Code editor 
+   https://codesandbox.io/s/ : Choose static
+
+
+3. A video on HTML by Aman Dhattarwal 
+   https://www.youtube.com/watch?v=Rek0NWPCNOc
+
+4. Another great way to learn HTML
+HTML/CSS:
+https://scrimba.com/learn/htmlcss
+https://scrimba.com/learn/cssvariables
+https://scrimba.com/learn/cssanimations
+https://scrimba.com/learn/flexbox
+https://scrimba.com/learn/R8PTE
+Javascript:
+https://scrimba.com/learn/introtojavascript
+https://scrimba.com/learn/es6
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/
+Basic React:
+https://scrimba.com/learn/learnreact
+https://scrimba.com/learn/reacthooks
+https://scrimba.com/learn/reactmovie
+More of react:
+React router: https://www.youtube.com/watch?v=Law7wfdg_ls
+Redux: https://www.youtube.com/watch?v=CVpUuw9XSjY
+
+ CS50 Video on Basic's
+	https://www.youtube.com/watch?v=5g0x2xv3aHU
+
+Practice Sites
+	https://www.frontendmentor.io/challenges
+	https://piccalil.li/category/front-end-challenges-club
+	https://www.codewell.cc/challenges
+	https://devchallenges.io/paths/responsive-web-developer
+	https://cssbattle.dev/
+	https://100dayscss.com/days/1/
+	
+
+Learn Grid and Flexbox
+	https://cssgridgarden.com/
+	https://flexboxfroggy.com/
+	http://www.flexboxdefense.com/
+
+Interactive Learning Sites
+	https://www.freecodecamp.org/learn/responsive-web-design/
+	https://scrimba.com/allcourses
+
+Cool blogs
+	https://dev.to/
+	https://developer.mozilla.org/en-US/docs/Web
+	https://css-tricks.com/
+https://freefrontend.com/css-text-animations/
+
+	Dope Youtubers*
+	https://www.youtube.com/c/BenAwad97
+	https://www.youtube.com/c/TheCoderCoder
+	https://www.youtube.com/c/DevEd
+	https://www.youtube.com/c/DesignCourse
+	https://www.youtube.com/c/Fireship
+	https://www.youtube.com/c/JSConfEU
+	https://www.youtube.com/kepowob
+	https://www.youtube.com/c/TraversyMedia
